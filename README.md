@@ -15,4 +15,4 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 ✨Try online demo: <https://huggingface.co/spaces/Pants4133/test_profile-to-wiz>
 
-<div align="center"><img src="./readme_assets/screenshot.png" alt="Screenshot with Gradio UI library"/></div>
+<div align="center"><img src="https://i.postimg.cc/9FBLbhgK/screenshot.png" alt="Screenshot with Gradio UI library"/></div>
